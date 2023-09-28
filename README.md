@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marinus12
 - 👀 I’m interested in learning Software Engineering Coutse.
-- 🌱 I’m currently learning ALX Software Engineering Course on Cohort 13.
+- 🌱 I’m currently learning ALX Software Engineering Course on Cohort 19.
 - 💞️ I’m looking to collaborate on difficult projects and tasks so as to challenge ny skills.
 - 📫 You can reach me on my gmail at dubemarinus@gmail.com.
 - I wish to make new and productive friends on here.
