@@ -1,4 +1,4 @@
-## **😊 Hi, I’m Marinus12**
+## **😊 Hi, I’m Marinus**
 
 ## I am glad you came across my Github profile.
 
@@ -22,11 +22,21 @@
 *Solving challenging tasks.  
 
 ## Socials Connect
-[![Telegram Icon](<img src="https://pixabay.com/illustrations/telegram-red-social-sociales-redes-6228343/", width="40", height="35")](https://t.me/dubemjake)
-[![Instagram Icon](<img src="https://pixabay.com/illustrations/instagram-logo-photo-camera-1581266/", height="35",width="40")](https://instagram.com/marinus_dubem)
-[![Twitter Icon](<img src="https://pixabay.com/photos/twitter-tweet-social-media-icon-2815914/", width="40", height="35")](https://twitter.com/UkewuiheMarinus)
-[![Linkedin Icon(<img src="https://pixabay.com/vectors/linked-in-logo-company-editorial-2668696/", width="40", height="35")](https://www.linkedin.com/in/marinus-ukewuihe-37b38b230)
-[![Discord Icon(<img src="https://pixabay.com/illustrations/logo-icon-symbol-networking-6062232/", width="40", height="35")](https://discordapp.com/users/Marinus#6161)
+<a href="https://t.me/dubemjake"> 
+<img src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-l6ni6sux.png" width="40" height="40"/>
+</a>
+<a href="https://instagram.com/marinus_dubem">
+ <img src="https://img.icons8.com/?size=100&id=32323&format=png" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/UkewuiheMarinus">
+  <img src="https://img.icons8.com/?size=160&id=K6EbxtNlONPH&format=png" width="40" height="40" />
+</a>
+<a href="https://discordapp.com/users/Marinus#6161" >
+ <img src="https://img.icons8.com/?size=128&id=iSpYyK95XXZn&format=png" width="40" height="40" /> 
+</a>
+<a href="https://www.linkedin.com/in/marinus-ukewuihe-37b38b230" >
+ <img src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png" width="40" height="40"/>
+</a>
 
 ## Focus Tools and Languages
 
